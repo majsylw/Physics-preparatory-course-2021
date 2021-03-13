@@ -2,8 +2,8 @@ Googledoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8
 
 # Challanges
 1. Kinematics - due to 10th March 2021: [LINK](https://kahoot.it/challenge/08736132?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1614952577307)
-2. Dynamics
-3. Rotational Motion
+2. Dynamics - due to 17th March 2021: [LINK](https://kahoot.it/challenge/04307658?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1615325575325)
+3. Rotational Motion - due to 24th March 2021: [LINK](https://kahoot.it/challenge/02469638?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1615632003886)
 4. Harmonic motion & Gravitational field
 5. Relativistic phenomena
       
