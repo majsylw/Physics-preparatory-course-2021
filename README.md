@@ -5,7 +5,7 @@ Googledoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8
 2. Dynamics - due to 17th March 2021: [LINK](https://kahoot.it/challenge/04307658?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1615325575325)
 3. Rotational Motion - due to 24th March 2021: [LINK](https://kahoot.it/challenge/02469638?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1615632003886)
 4. Harmonic motion & Gravitational field - due to 31st March 2021: [LINK](https://kahoot.it/challenge/06827178?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1616433512945)
-5. Relativistic phenomena
+5. Relativistic phenomena - due to 7th April 2021:[LINK](https://kahoot.it/challenge/06839625?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1616858954560)
       
     **Homework: 1# Mechanics:  due to 9th April 2021** - email
 
