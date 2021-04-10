@@ -9,7 +9,7 @@ Googledoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8
       
     **Homework: 1# Mechanics:  due to 9th April 2021** - email
 
-6. Thermodynamics
+6. Thermodynamics - due to 21st April 2021: [LINK](https://kahoot.it/challenge/05714078?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1618057282875)
 7. Fluids
       
     **Homework: 2# Termodynamics:  due to 14th May 2021** - email
