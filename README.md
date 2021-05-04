@@ -14,7 +14,7 @@ Googledoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8
       
     **Homework: 2# Termodynamics:  due to 14th May 2021** - email
 
-8. Electrostatics
+8. Electrostatics - due to 12th May 2021: [LINK](https://kahoot.it/challenge/06202797?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1620163847265)
 9. Electric curent
 10. Magnetism
 
