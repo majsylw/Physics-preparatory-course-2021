@@ -15,7 +15,7 @@ Googledoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8
     **Homework: 2# Termodynamics:  due to 14th May 2021** - email
 
 8. Electrostatics - due to 12th May 2021: [LINK](https://kahoot.it/challenge/06202797?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1620163847265)
-9. Electric curent
+9. Electric curent - due to 19th May 2021: [LINK](https://kahoot.it/challenge/02521304?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1620475768723)
 10. Magnetism
 
 **According to the rector's ordinance, no classes take place locally. Therefore, all materials related to the course will appear successively here**
@@ -45,7 +45,7 @@ For more information look at [The Department of Foreign Languages page](http://s
 11. **Electric current** - 12.05.2021 & 14.05.2021 *(ZOOM)*
 12. **Magnetic field** - 19.05.2021 & 21.05.2021 *(ZOOM)*
 13. **Vibrations and electromagnetic waves** - 26.05.2021 & 28.05.2021 *(ZOOM)*
-14. **REVISION of Electricity and Magnetism** - 3.06.2021 (ZOOM)
+14. **REVISION of Kinematics, Dynamics and Relativity** - 17.06.2021 (ZOOM)
 15. **REVISION of Heat, Termodynamics and Fluids** - 5.06.2021 (ZOOM)
-16. **REVISION of Kinematics, Dynamics and Relativity** - 17.06.2021 (ZOOM)
+16. **REVISION of Electricity and Magnetism** - 3.06.2021 (ZOOM)
 17. **Final grades & improvements** - 20.06.2021 (ZOOM)
