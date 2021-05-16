@@ -1,4 +1,4 @@
-Googledoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8AE2Pe77JtQBnO-fBYLQZ87U3I5z5a7VCKhyHGU7I/edit?usp=sharing).
+GoogleDoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8AE2Pe77JtQBnO-fBYLQZ87U3I5z5a7VCKhyHGU7I/edit?usp=sharing).
 
 # Challanges
 1. Kinematics - due to 10th March 2021: [LINK](https://kahoot.it/challenge/08736132?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1614952577307)
@@ -16,7 +16,7 @@ Googledoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8
 
 8. Electrostatics - due to 12th May 2021: [LINK](https://kahoot.it/challenge/06202797?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1620163847265)
 9. Electric curent - due to 19th May 2021: [LINK](https://kahoot.it/challenge/02521304?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1620475768723)
-10. Magnetism
+10. Magnetism - due to 26th May 2021: [LINK](https://kahoot.it/challenge/02000554?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1621164013298)
 
 **According to the rector's ordinance, no classes take place locally. Therefore, all materials related to the course will appear successively here**
 
