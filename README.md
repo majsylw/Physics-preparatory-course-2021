@@ -45,7 +45,7 @@ For more information look at [The Department of Foreign Languages page](http://s
 11. **Electric current** - 12.05.2021 & 14.05.2021 *(ZOOM)*
 12. **Magnetic field** - 19.05.2021 & 21.05.2021 *(ZOOM)*
 13. **Vibrations and electromagnetic waves** - 26.05.2021 & 28.05.2021 *(ZOOM)*
-14. **REVISION of Kinematics, Dynamics and Relativity** - 17.06.2021 (ZOOM)
-15. **REVISION of Heat, Termodynamics and Fluids** - 5.06.2021 (ZOOM)
-16. **REVISION of Electricity and Magnetism** - 3.06.2021 (ZOOM)
-17. **Final grades & improvements** - 20.06.2021 (ZOOM)
+14. **REVISION of Kinematics, Dynamics and Relativity** - 9.06.2021 (ZOOM)
+15. **REVISION of Heat, Termodynamics and Fluids** - 11.06.2021 (ZOOM)
+16. **REVISION of Electricity and Magnetism** - 16.06.2021 (ZOOM)
+17. **Final grades & improvements - ORAL EXAM** - 18.06.2021 (ZOOM)
