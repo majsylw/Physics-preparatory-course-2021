@@ -1,22 +1,19 @@
-GoogleDoc document with links [HERE](https://docs.google.com/spreadsheets/d/1IK8AE2Pe77JtQBnO-fBYLQZ87U3I5z5a7VCKhyHGU7I/edit?usp=sharing).
-
 # Challanges
-1. Kinematics - due to 10th March 2021: [LINK](https://kahoot.it/challenge/08736132?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1614952577307)
-2. Dynamics - due to 17th March 2021: [LINK](https://kahoot.it/challenge/04307658?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1615325575325)
-3. Rotational Motion - due to 24th March 2021: [LINK](https://kahoot.it/challenge/02469638?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1615632003886)
-4. Harmonic motion & Gravitational field - due to 31st March 2021: [LINK](https://kahoot.it/challenge/06827178?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1616433512945)
-5. Relativistic phenomena - due to 7th April 2021:[LINK](https://kahoot.it/challenge/06839625?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1616858954560)
+1. Kinematics - due to 10th March 2021
+2. Dynamics - due to 17th March 2021
+3. Rotational Motion - due to 24th March 2021
+4. Harmonic motion & Gravitational field - due to 31st March 2021
+5. Relativistic phenomena - due to 7th April 2021
       
     **Homework: 1# Mechanics:  due to 9th April 2021** - email
 
-6. Thermodynamics - due to 21st April 2021: [LINK](https://kahoot.it/challenge/05714078?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1618057282875)
-7. Fluids - due to 5th May 2021: [LINK](https://kahoot.it/challenge/07689838?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1619368057925)
+6. Thermodynamics - due to 21st April 2021
+7. Fluids - due to 5th May 2021
       
     **Homework: 2# Termodynamics:  due to 14th May 2021** - email
 
-8. Electrostatics - due to 12th May 2021: [LINK](https://kahoot.it/challenge/06202797?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1620163847265)
-9. Electric curent - due to 19th May 2021: [LINK](https://kahoot.it/challenge/02521304?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1620475768723)
-10. Magnetism - due to 26th May 2021: [LINK](https://kahoot.it/challenge/02000554?challenge-id=459c69ba-0699-474d-ae7d-12916780bd23_1621164013298)
+8. Electrostatics - due to 12th May 2021
+10. Magnetism - due to 26th May 2021
 
 **According to the rector's ordinance, no classes take place locally. Therefore, all materials related to the course will appear successively here**
 
